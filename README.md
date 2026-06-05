@@ -10,9 +10,9 @@ A simple React business card app built with Vite.
 
 1. Navigate to the project directory
 2. Install dependencies:
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 3. Start the development server:
 ```bash
 npm run dev
